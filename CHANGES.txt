@@ -1,10 +1,10 @@
 CHANGES
 *******
 
-0.9.8.2 (unreleased)
+0.9.8.1-1 (unreleased)
 ====================
 
-- Nothing changed yet.
+- correct a typo in setup.py
 
 
 0.9.8.1 (2012-07-12)
