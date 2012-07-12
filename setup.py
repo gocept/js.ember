@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '0.9.8.2.dev0'
+version = '0.9.8.2-1.dev0'
 
 def read(*rnames):
     return open(os.path.join(os.path.dirname(__file__), *rnames)).read()
@@ -29,7 +29,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'fanstatic',
-        'js.query',
+        'js.jquery',
         'setuptools',
         ],
     entry_points={
