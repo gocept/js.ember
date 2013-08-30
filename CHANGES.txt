@@ -4,7 +4,7 @@ CHANGES
 1.0.0-pre.3 (unreleased)
 ========================
 
-- Nothing changed yet.
+- Updated ember to 1.0.0-pre.8 and handlebars to 1.0.0.
 
 
 1.0.0-pre.2 (2012-11-18)
