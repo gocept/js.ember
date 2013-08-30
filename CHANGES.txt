@@ -1,8 +1,8 @@
 CHANGES
 *******
 
-1.0.0-pre.9 (unreleased)
-========================
+1.0.0-pre.8.1 (2013-08-30)
+==========================
 
 - Made ember data an independent resource, so that requiering ember does not
   load emberdata automatically. To get emberdata, use
