@@ -6,6 +6,10 @@ CHANGES
 
 - Updated ember to 1.0.0-pre.8 and handlebars to 1.0.0.
 
+- Added ember data 0.13b.
+
+- Added minified js for all resources.
+
 
 1.0.0-pre.2 (2012-11-18)
 ========================
