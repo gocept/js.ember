@@ -16,4 +16,4 @@ and making sure that the original ember.js is published to some URL.
 Contributors
 ============
 
-* Matt Good (1.0.0-pre.2)
+* Matt Good (1.0.0-pre.8)
