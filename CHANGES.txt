@@ -4,7 +4,7 @@ CHANGES
 1.0.0-pre.9 (unreleased)
 ========================
 
-- Nothing changed yet.
+- Updated to ember to the 1.0.0 release and ember data to 1.0-beta-1.
 
 
 1.0.0-pre.8.1 (2013-08-30)

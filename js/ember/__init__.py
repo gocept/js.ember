@@ -10,12 +10,12 @@ handlebars = fanstatic.Resource(
 
 ember = fanstatic.Resource(
     library,
-    'ember-1.0.0-rc.8.js',
-    minified='ember-1.0.0-rc.8.min.js',
+    'ember-1.0.0.js',
+    minified='ember-1.0.0.min.js',
     depends=[js.jquery.jquery, handlebars])
 
 ember_data = fanstatic.Resource(
     library,
-    'ember-data-0.13-108.js',
-    minified='ember-data-0.13-108.min.js',
+    'ember-data-1.0.0-beta-1.js',
+    minified='ember-data-1.0.0-beta-1.min.js',
     depends=[ember])
